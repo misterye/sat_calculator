@@ -15,7 +15,7 @@ MODULATION_ORDER = {
 }
 
 # Default Reed-Solomon code rate
-RS_CODE = 0.92
+RS_CODE = 0.9216
 
 # Roll-off factor
 ROLL_OFF = 0.05
